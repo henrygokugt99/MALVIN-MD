@@ -1,24 +1,11 @@
-<div align="center">
-  <p align="center">
 
-   
-### *WELCOME TO MALVIN MD BOT*
-
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝐌𝐀𝐋𝐕𝐈𝐍+MD+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐋𝐎𝐑𝐃+𝐌𝐀𝐋𝐕𝐈𝐍+𝗦𝗘𝗥;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 
  </a>
 </p>
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=MALVIN+MD+%E2%9C%A8%EF%B8%8F;The+Best+Whatsapp+Bot+;Created+by+𝙻𝙾𝚁𝙳+мαℓνιи;D%C3%ADont+forget+fork+before+deploying+%F0%9F%8C%9F+MALVIN+MD+BOT" alt="Typing SVG" /></a>
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## **<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=%F0%9F%A7%B8+Hi+Am+𝙼𝙰𝙻𝚅𝙸𝙽+𝙼𝙳+%E2%9C%A8%EF%B8%8F" alt="Typing SVG" /></a>**
+ **<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=%F0%9F%A7%B8+Hi+Am+𝙼𝙰𝙻𝚅𝙸𝙽+𝙼𝙳+%E2%9C%A8%EF%B8%8F" alt="Typing SVG" /></a>**
 
  </a><a><img src='https://g.top4top.io/p_3218pggm51.jpg'/></a>
 <p align="center">
@@ -26,11 +13,15 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   
-  
+  <!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+**<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=F242B00&center=true&width=435&lines=MALVIN+MD+%E2%9C%A8%EF%B8%8F;The+Best+Whatsapp+Bot+;Created+by+𝙻𝙾𝚁𝙳+мαℓνιи." alt="Typing SVG" /></a>**
+
 
  </p>
 <p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/kingmalvn-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/CHAT Me-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/kingmalvn-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>                                                                                                                                                    <p align="center">
 <a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/MALVIN-MD?color=blue&style=flat-square"></a>
@@ -142,5 +133,27 @@ ONE 🫡👇👇
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## Features
+## NOTE:
+
+<br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+* [🧑‍💻 Follow Malvin Md Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
+
+* [🧑‍💻 Join malvin tech Telegram  🧑‍💻](https://t.me/malvintech)
+
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/GFp6TrVc6ebAPK9qIsEu50)
+
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+
+- *MALVIN MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use MALVIN MD at your own risk by keeping this warning in mind.*
+  
+  #### ```MALVIN KING PROFILE VIEWS 🥰```
+![Visitor Count](https://profile-counter.glitch.me/kingmalvn/count.svg)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
